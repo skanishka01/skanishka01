@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishka-sharma-08baa724b/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skanishka9560@gmail.com)  
 
----
+
 
 ## About Me  
 
@@ -19,7 +19,6 @@
 
 🤝 I love collaborating on code and enjoy working in teams, be it in **projects** or **hackathons**.  
 
----
 
 ## Tech Stack  
 
